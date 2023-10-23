@@ -1,4 +1,4 @@
-# CS324
+# SUSTC CS324 Deep Learning
 
 homework and project of CS324 deep learning
 - assignment 1 write  MLP with numpy
